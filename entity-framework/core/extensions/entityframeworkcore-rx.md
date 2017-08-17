@@ -7,7 +7,6 @@ ms.assetid: BE0B8302-49B9-48ED-A216-2DF6A4AD0096
 ms.technology: entity-framework-core
 uid: core/extensions/entityframeworkcore-rx
 ---
-
 # EntityFrameworkCore.Rx Extension
 
 > [!NOTE]  

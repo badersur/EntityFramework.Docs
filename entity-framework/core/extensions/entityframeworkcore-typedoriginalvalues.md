@@ -7,7 +7,6 @@ ms.assetid: 6FDA2B31-E1FA-4213-A714-81AD6789DBA0
 ms.technology: entity-framework-core
 uid: core/extensions/entityframeworkcore-typedoriginalvalues
 ---
-
 # EntityFrameworkCore.TypedOriginalValues Extension
 
 > [!NOTE]  

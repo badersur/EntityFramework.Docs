@@ -7,7 +7,6 @@ ms.assetid: C7E0CC03-064B-4EE3-8A68-6D6D6C0B4C9B
 ms.technology: entity-framework-core
 uid: core/extensions/dynamiclinq
 ---
-
 # Microsoft.EntityFrameworkCore.DynamicLinq Extension
 
 > [!NOTE]  

@@ -7,7 +7,6 @@ ms.assetid: 52966E86-5B01-4E45-BAB9-DB92DCBB63C5
 ms.technology: entity-framework-core
 uid: core/extensions/entityframeworkcore-triggers
 ---
-
 # EntityFrameworkCore.Triggers Extension
 
 > [!NOTE]  

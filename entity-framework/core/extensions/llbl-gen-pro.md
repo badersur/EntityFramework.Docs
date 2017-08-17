@@ -7,7 +7,6 @@ ms.assetid: d66b9e4d-1ed9-4ac5-a473-957a7d82ea92
 ms.technology: entity-framework-core
 uid: core/extensions/llbl-gen-pro
 ---
-
 # LLBLGen Pro
 
 > [!NOTE]  

@@ -7,7 +7,6 @@ ms.assetid: C9B8DEC7-5FE3-4DEE-8797-9DA94D2C56F4
 ms.technology: entity-framework-core
 uid: core/extensions/efcore-practices
 ---
-
 # EFCore.Practices Extension
 
 > [!NOTE]  

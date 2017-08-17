@@ -7,7 +7,6 @@ ms.assetid: 97c1ba7d-29a5-46de-a87d-912b52ac242e
 ms.technology: entity-framework-core
 uid: core/extensions/index
 ---
-
 # EF Core Tools & Extensions
 
 Tools and extensions provide additional functionality for Entity Framework Core.

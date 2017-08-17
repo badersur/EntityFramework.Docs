@@ -7,7 +7,6 @@ ms.assetid: DE1C3FEA-F618-4C11-932F-7C392A1B2C94
 ms.technology: entity-framework-core
 uid: core/extensions/entityframeworkcore-detached
 ---
-
 # EFDetached.EntityFramework Extension
 
 > [!NOTE]  
